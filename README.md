@@ -5,7 +5,7 @@ My java script project
 - Solution URL: https://github.com/nati47284-web/Greeting-project
 - Live Site URL: https://nati47284-web.github.io/Greeting-project
 ### Project page URL
-- project URL: http://127.0.0.1:5501/from-scrach/index.html
+- project URL: https://nati47284-web.github.io/Greeting-project/
 
 ## Instruction to Run
 1. Open your browser.
